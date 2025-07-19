@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+<body>
+ <h1>Welcome from MAIN branch</h1>
+    <p>This is the main branch version.</p>
+</body>
+</html>
+<<<<<<< HEAD
+
+  <p>This is the feature branch version.</p>
+
+
+=======
+<h1>Welcome from FEATURE branch</h1>
+    <h1>New Features Coming Soon</h1>
+  <h1>Stay Tuned for Updates</h1>
+  <p>This is the FATURE ranch .</p>
+>>>>>>> b1
+    <p>We are currently working on exciting improvements to enhance your experience.</p>
